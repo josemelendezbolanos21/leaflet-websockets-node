@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background: #6b3743;
+}
+
+#map-template {
+  height: 100vh;
+  width: 100%;
+  top: 0;
+  position: absolute;
+}
